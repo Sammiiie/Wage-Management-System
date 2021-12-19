@@ -1,4 +1,6 @@
 # Daily Wage Management System
+This is a simple wage management system that allows employers to track the wages paid to employees and settle disputes.
+Employees can view their payment details and lay complaints as needed, these complaints can be discussed and settled digitally.
 
 # Instalation steps
 1. Paste project folder in your server environment
