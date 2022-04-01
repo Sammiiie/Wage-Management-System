@@ -23,7 +23,7 @@ $designation = $_SESSION['designation'];
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Wage System</title>
+    <title>Happy Sales & Wage System</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -108,7 +108,7 @@ $designation = $_SESSION['designation'];
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">Neo Gas</div>
+                <div class="sidebar-brand-text mx-3">Happy Sales</div>
             </a>
 
             <!-- Divider -->
@@ -119,6 +119,16 @@ $designation = $_SESSION['designation'];
                 <a class="nav-link" href="index.php">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Home</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="transactions.php">
+                    <i class="fas fa-fw fa-dollar"></i>
+                    <span>Transactions</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="inventory.php">
+                    <i class="fas fa-fw fa-comment"></i>
+                    <span>Inventory</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="complain.php">
